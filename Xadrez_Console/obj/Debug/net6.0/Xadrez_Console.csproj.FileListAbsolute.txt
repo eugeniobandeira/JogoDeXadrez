@@ -1,0 +1,15 @@
+C:\Users\Genius\Desktop\Xadrez\JogoDeXadrez\Xadrez_Console\bin\Debug\net6.0\Xadrez_Console.exe
+C:\Users\Genius\Desktop\Xadrez\JogoDeXadrez\Xadrez_Console\bin\Debug\net6.0\Xadrez_Console.deps.json
+C:\Users\Genius\Desktop\Xadrez\JogoDeXadrez\Xadrez_Console\bin\Debug\net6.0\Xadrez_Console.runtimeconfig.json
+C:\Users\Genius\Desktop\Xadrez\JogoDeXadrez\Xadrez_Console\bin\Debug\net6.0\Xadrez_Console.dll
+C:\Users\Genius\Desktop\Xadrez\JogoDeXadrez\Xadrez_Console\bin\Debug\net6.0\Xadrez_Console.pdb
+C:\Users\Genius\Desktop\Xadrez\JogoDeXadrez\Xadrez_Console\obj\Debug\net6.0\Xadrez_Console.csproj.AssemblyReference.cache
+C:\Users\Genius\Desktop\Xadrez\JogoDeXadrez\Xadrez_Console\obj\Debug\net6.0\Xadrez_Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Genius\Desktop\Xadrez\JogoDeXadrez\Xadrez_Console\obj\Debug\net6.0\Xadrez_Console.AssemblyInfoInputs.cache
+C:\Users\Genius\Desktop\Xadrez\JogoDeXadrez\Xadrez_Console\obj\Debug\net6.0\Xadrez_Console.AssemblyInfo.cs
+C:\Users\Genius\Desktop\Xadrez\JogoDeXadrez\Xadrez_Console\obj\Debug\net6.0\Xadrez_Console.csproj.CoreCompileInputs.cache
+C:\Users\Genius\Desktop\Xadrez\JogoDeXadrez\Xadrez_Console\obj\Debug\net6.0\Xadrez_Console.dll
+C:\Users\Genius\Desktop\Xadrez\JogoDeXadrez\Xadrez_Console\obj\Debug\net6.0\refint\Xadrez_Console.dll
+C:\Users\Genius\Desktop\Xadrez\JogoDeXadrez\Xadrez_Console\obj\Debug\net6.0\Xadrez_Console.pdb
+C:\Users\Genius\Desktop\Xadrez\JogoDeXadrez\Xadrez_Console\obj\Debug\net6.0\Xadrez_Console.genruntimeconfig.cache
+C:\Users\Genius\Desktop\Xadrez\JogoDeXadrez\Xadrez_Console\obj\Debug\net6.0\ref\Xadrez_Console.dll
