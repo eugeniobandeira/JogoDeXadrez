@@ -28,6 +28,10 @@ namespace Xadrez_Console.tabuleiro
         }
         public void ColocarPeca(Peca p, Posicao pos)
         {
+            if (ExistePecaNaPosicao(pos))
+            {
+                throw new TabuleiroException("Já existe uma peça na posição!");
+            }
             pecas[pos.linha, pos.coluna] = p;
             p.posicao = pos;
         }
