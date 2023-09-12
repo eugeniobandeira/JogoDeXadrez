@@ -1,25 +1,27 @@
-﻿using System.Reflection.Metadata.Ecma335;
-using Xadrez_Console.tabuleiro;
+﻿using tabuleiro;
 
-namespace Xadrez_Console.xadrez
+namespace xadrez
 {
     class PosicaoXadrez
     {
-        public char Coluna { get; set; }
-        public int Linha { get; set; }
+
+        public char coluna { get; set; }
+        public int linha { get; set; }
 
         public PosicaoXadrez(char coluna, int linha)
         {
-            Coluna = coluna;
-            Linha = linha;
+            this.coluna = coluna;
+            this.linha = linha;
         }
+
         public Posicao toPosicao()
         {
-            return new Posicao(8 - Linha, Coluna - 'A');
+            return new Posicao(8 - linha, coluna - 'a');
         }
+
         public override string ToString()
         {
-            return "" + Coluna + Linha;
+            return "" + coluna + linha;
         }
     }
 }
